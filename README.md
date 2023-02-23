@@ -1,2 +1,3 @@
-# Mi-primer-repositorio2
-Practicando en la creación de mi repositorio
+Este archivo es una practica para crear
+un repositorio en github
+
